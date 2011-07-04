@@ -1,0 +1,7 @@
+//  Console commands in Element Client
+
+#_begin	  //  String table begin ...
+
+"exit"
+
+// ========== Debug commands ==========
