@@ -1,2 +1,2 @@
 SPCK -c interfaces.pck.files -z 1 interfaces.pck
-SPCK -c config.pck.files -z 1 configs.pck
+SPCK -c configs.pck.files -z 1 configs.pck

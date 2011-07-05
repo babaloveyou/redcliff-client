@@ -1,2 +1,2 @@
 SPCK -x interfaces.pck
-SPCK -x config.pck
+SPCK -x configs.pck
