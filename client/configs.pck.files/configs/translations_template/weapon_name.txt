@@ -1,0 +1,19 @@
+En-eu		En-am		Ru
+Glaive		Sabre		Меч
+Spear		Spear		Копье
+Halberd		Halberd		Алебарда
+Cleaver		Battle Axe	Топор
+Trident		Trident		Трезубец
+Staff		Cudgel		Посох
+Saber		Sword		Сабля
+Hatchets	Axe		Топоры
+Hooksword	Hook		Меч-крюк
+Mace		Mace		Булава
+Hammer		Hammer		Двуручный топор
+Talons		Claw		Когти
+Gauntlets	Shield		Кольчужные рукавицы
+Ring Blade	Quoit		Кольцевой меч
+Scepter		Staff		Скипетр
+Charmer		Dance		Веер
+War Fan		War Fan		Двойной меч
+Bow		Bow		Лук
