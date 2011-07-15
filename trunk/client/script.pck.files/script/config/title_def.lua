@@ -62,11 +62,11 @@ title_definition['称号_剧情巴蜀13'] = {id = 2307 , note = "^72fe00[Тал�
 title_definition['称号_剧情巴蜀14'] = {id = 2308 , note = "^72fe00[Капитан Воров]" , desc = "^72fe00Постоянный:\r^ffffffHealth Recovery +1\rОпыт +1%" , desc_1 = "" , desc_2 = ""}
 title_definition['称号_剧情巴蜀15'] = {id = 2309 , note = "^72fe00[Терминатор]" , desc = "^72fe00Постоянный:\r^ffffffМаксимум Жизни +20\rСила Атаки +2\rЗащита +1" , desc_1 = "" , desc_2 = ""}
 title_definition['称号_地区河北友善'] = {id = 3101 , note = "^72fe00[Хебей Вестник Сострадания]" , desc = "^72fe00Постоянный:\r^ffffffМаксимум Жизни +20\rСила Атаки +1\rЗащита +1\r^ffc556Только высокий титул будет отображаться в этой области" , desc_1 = "" , desc_2 = ""}
-title_definition['称号_地区河北尊敬'] = {id = 3102 , note = "^0184ff[Hebei·Swordsman]" , desc = "^0184ffПостоянный:\r^ffffffМаксимум Жизни +20\rСила Атаки +1\rЗащита +1\rCritstrike Rate +1\r^ffc556Only the highest reputation title you have in this area will be displayed" , desc_1 = "" , desc_2 = ""}
-title_definition['称号_地区河北崇敬'] = {id = 3103 , note = "^a800ff[Hebei·Knight]" , desc = "^a800ffПостоянный:\r^ffffffМаксимум Жизни +60\rСила Атаки +3\rЗащита +1\rCritstrike Rate +1\rCritical Rate +3%\r^ffc556Only the highest reputation title you have in this area will be displayed" , desc_1 = "" , desc_2 = ""}
-title_definition['称号_地区河北崇拜'] = {id = 3104 , note = "^a800ff[Hebei·Hero]" , desc = "^a800ffПостоянный:\r^ffffffМаксимум Жизни +120\rСила Атаки +3\rЗащита +1\rCritstrike Rate +1\rCritical Rate +5%\r^ffc556Only the highest reputation title you have in this area will be displayed" , desc_1 = "" , desc_2 = ""}
-title_definition['称号_地区河北15000'] = {id = 3111 , note = "^0184ff[Hebei·Warden]" , desc = "^0184ffПостоянный:\r^ffffffМаксимум Жизни +50\rСила Атаки +2\rЗащита +1\rCritstrike Rate +1\r^ffc556Only the highest reputation title you have in this area will be displayed" , desc_1 = "" , desc_2 = ""}
-title_definition['称号_地区河北十万'] = {id = 3112 , note = "^a800ff[Hebei·Guide]" , desc = "^a800ffПостоянный:\r^ffffffМаксимум Жизни +70\rСила Атаки +3\rЗащита +1\rCritstrike Rate +1\rCritical Rate +5%\r^ffc556Only the highest reputation title you have in this area will be displayed" , desc_1 = "" , desc_2 = ""}
+title_definition['称号_地区河北尊敬'] = {id = 3102 , note = "^0184ff[Мечник Хебей]" , desc = "^0184ffПостоянный:\r^ffffffМаксимум Жизни +20\rСила Атаки +1\rЗащита +1\rCritstrike Rate +1\r^ffc556Only the highest reputation title you have in this area will be displayed" , desc_1 = "" , desc_2 = ""}
+title_definition['称号_地区河北崇敬'] = {id = 3103 , note = "^a800ff[Рыцарь Хебей]" , desc = "^a800ffПостоянный:\r^ffffffМаксимум Жизни +60\rСила Атаки +3\rЗащита +1\rCritstrike Rate +1\rCritical Rate +3%\r^ffc556Only the highest reputation title you have in this area will be displayed" , desc_1 = "" , desc_2 = ""}
+title_definition['称号_地区河北崇拜'] = {id = 3104 , note = "^a800ff[Герой Хебей]" , desc = "^a800ffПостоянный:\r^ffffffМаксимум Жизни +120\rСила Атаки +3\rЗащита +1\rCritstrike Rate +1\rCritical Rate +5%\r^ffc556Only the highest reputation title you have in this area will be displayed" , desc_1 = "" , desc_2 = ""}
+title_definition['称号_地区河北15000'] = {id = 3111 , note = "^0184ff[Смотритель Хебей]" , desc = "^0184ffПостоянный:\r^ffffffМаксимум Жизни +50\rСила Атаки +2\rЗащита +1\rCritstrike Rate +1\r^ffc556Only the highest reputation title you have in this area will be displayed" , desc_1 = "" , desc_2 = ""}
+title_definition['称号_地区河北十万'] = {id = 3112 , note = "^a800ff[Помощник Хебей]" , desc = "^a800ffПостоянный:\r^ffffffМаксимум Жизни +70\rСила Атаки +3\rЗащита +1\rCritstrike Rate +1\rCritical Rate +5%\r^ffc556Only the highest reputation title you have in this area will be displayed" , desc_1 = "" , desc_2 = ""}
 title_definition['称号_地区河北排行榜1'] = {id = 3105 , note = "^ff7d2f※Hebei·The Conqueror※" , desc = "0" , desc_1 = "" , desc_2 = ""}
 title_definition['称号_地区河北排行榜2'] = {id = 3106 , note = "^a800ff※Hebei·7 Heroes※" , desc = "0" , desc_1 = "" , desc_2 = ""}
 title_definition['称号_地区河北排行榜3'] = {id = 3107 , note = "^a800ff※Hebei·18 Warriors※" , desc = "0" , desc_1 = "" , desc_2 = ""}
@@ -421,17 +421,17 @@ title_definition['全国竞技赛冠军'] = {id = 7179 , note = "^ff0000[N/A天�
 title_definition['老玩家回流称号1'] = {id = 7180 , note = "^d181ff[N/A衣锦还乡]" , desc = "^72fe00N/A大风起兮云飞扬，威加海内兮归故乡！" , desc_1 = "" , desc_2 = ""}
 title_definition['老玩家回流称号2'] = {id = 7181 , note = "^d181ff[N/A荣归故里]" , desc = "^72fe00N/A大风起兮云飞扬，威加海内兮归故乡！" , desc_1 = "" , desc_2 = ""}
 title_definition['老玩家回流称号3'] = {id = 7182 , note = "^d181ff[N/A功成名就]" , desc = "^72fe00N/A大风起兮云飞扬，威加海内兮归故乡！" , desc_1 = "" , desc_2 = ""}
-title_definition['资质初始称号'] = {id = 7183 , note = "^a800ff[World Lord]" , desc = "^a800ffPermanent\r^ffffffAll Attributes +1" , desc_1 = "" , desc_2 = ""}
-title_definition['魏国玩家61级称号'] = {id = 1113 , note = "^72fe00[Wei·Veteran]" , desc = "0You're one of the Wei Veterans!" , desc_1 = "" , desc_2 = ""}
-title_definition['吴国玩家61级称号'] = {id = 1313 , note = "^72fe00[Wu·Veteran]" , desc = "0You're one of the Wu Veterans!" , desc_1 = "" , desc_2 = ""}
+title_definition['资质初始称号'] = {id = 7183 , note = "^a800ff[Лорд Мира]" , desc = "^a800ffPermanent\r^ffffffAll Attributes +1" , desc_1 = "" , desc_2 = ""}
+title_definition['魏国玩家61级称号'] = {id = 1113 , note = "^72fe00[Ветеран Вей]" , desc = "0You're one of the Wei Veterans!" , desc_1 = "" , desc_2 = ""}
+title_definition['吴国玩家61级称号'] = {id = 1313 , note = "^72fe00[Ветеран Ву]" , desc = "0You're one of the Wu Veterans!" , desc_1 = "" , desc_2 = ""}
 title_definition['无阵营玩家60级称号'] = {id = 4104 , note = "^72fe00[Han Dynasty Veteran]" , desc = "0You're one of the Han Dynasty Veterans!" , desc_1 = "" , desc_2 = ""}
-title_definition['蜀国玩家61级称号'] = {id = 1213 , note = "^72fe00[Shu·Veteran]" , desc = "0你You're one of the Shu Veterans!" , desc_1 = "" , desc_2 = ""}
-title_definition['活动神兵玄奇称号1'] = {id = 8111 , note = "^72fe00[Skillful Craftsman]" , desc = "^72fe00Permanent\r^ffffffAttack Power +2\rHealth  +10" , desc_1 = "" , desc_2 = ""}
-title_definition['活动神兵玄奇称号2'] = {id = 8112 , note = "^0184ff[Crafting Master]" , desc = "^72fe00Permanent\r^ffffffAttack Power +5\rHealth  +30" , desc_1 = "" , desc_2 = ""}
-title_definition['活动神兵玄奇称号3'] = {id = 8113 , note = "^a800ff[Crafting Legend]" , desc = "^72fe00Permanent\r^ffffffAttack Power +10\rHealth  +60" , desc_1 = "" , desc_2 = ""}
-title_definition['魏国玩家61级称号新'] = {id = 1114 , note = "^72fe00[Wei·Veteran]" , desc = "0You're one of the Wei Veterans!" , desc_1 = "" , desc_2 = ""}
-title_definition['吴国玩家61级称号新'] = {id = 1314 , note = "^72fe00[Wu·Veteran]" , desc = "0You're one of the Wu Veterans!" , desc_1 = "" , desc_2 = ""}
-title_definition['蜀国玩家61级称号新'] = {id = 1214 , note = "^72fe00[Shu·Veteran]" , desc = "0You're one of the Shu Veterans!" , desc_1 = "" , desc_2 = ""}
+title_definition['蜀国玩家61级称号'] = {id = 1213 , note = "^72fe00[Ветеран Шу]" , desc = "0你You're one of the Shu Veterans!" , desc_1 = "" , desc_2 = ""}
+title_definition['活动神兵玄奇称号1'] = {id = 8111 , note = "^72fe00[Умелый Мастер]" , desc = "^72fe00Permanent\r^ffffffAttack Power +2\rHealth  +10" , desc_1 = "" , desc_2 = ""}
+title_definition['活动神兵玄奇称号2'] = {id = 8112 , note = "^0184ff[Мастер Крафта]" , desc = "^72fe00Permanent\r^ffffffAttack Power +5\rHealth  +30" , desc_1 = "" , desc_2 = ""}
+title_definition['活动神兵玄奇称号3'] = {id = 8113 , note = "^a800ff[Легенда Крафта]" , desc = "^72fe00Permanent\r^ffffffAttack Power +10\rHealth  +60" , desc_1 = "" , desc_2 = ""}
+title_definition['魏国玩家61级称号新'] = {id = 1114 , note = "^72fe00[Ветеран Вей]" , desc = "0You're one of the Wei Veterans!" , desc_1 = "" , desc_2 = ""}
+title_definition['吴国玩家61级称号新'] = {id = 1314 , note = "^72fe00[Ветеран Ву]" , desc = "0You're one of the Wu Veterans!" , desc_1 = "" , desc_2 = ""}
+title_definition['蜀国玩家61级称号新'] = {id = 1214 , note = "^72fe00[Ветеран Шу]" , desc = "0You're one of the Shu Veterans!" , desc_1 = "" , desc_2 = ""}
 title_definition['江山如画系列任务称号'] = {id = 7190 , note = "^a800ff[Beautiful View of the World]" , desc = "^a800ffПостоянный:\r^ffffffAttack Power+ 5\rPower +10\rDamage Bonus+ 5" , desc_1 = "" , desc_2 = ""}
 title_definition['曹植外传称号'] = {id = 7191 , note = "^0184ff[Lonely in Dream]" , desc = "^0184ffПостоянный:\r^ffffffAttack Power +2" , desc_1 = "" , desc_2 = ""}
 title_definition['台湾_兵种活动称号1'] = {id = 7192 , note = "^e12500[Fierce Glaive]" , desc = "^72fe00Title of Warrior" , desc_1 = "" , desc_2 = ""}
@@ -796,7 +796,7 @@ end
 title_dir =
 	{
 		{
-			"Title of Nobility",
+			"Дворянский титул",
 			7277,
 			7278,
 			7279,
@@ -808,16 +808,16 @@ title_dir =
 			7339,
 		},
 		{
-			"State",
+			"Статус",
 			{
-				"Officer",
+				"Офицер",
 				{7334,1112,1212,7268,7323,7324,7325,7326},
 				{7335,7332,1312,7266,7315,7316,7317,7318},
 				{7336,7331,7333,7267,7319,7320,7321,7322},
 				{7402,7403,7404,7405,7406,7407,7408,7409,7410},
 			},
 			{
-				"Wei",
+				"Вей",
 				1105,
 				1106,
 				1107,
@@ -846,7 +846,7 @@ title_dir =
 				7262,
 			},
 			{
-				"Shu",
+				"Шу",
 				1205,
 				1206,
 				1207,
@@ -875,7 +875,7 @@ title_dir =
 				7263,
 			},
 			{
-				"Wu",
+				"Ву",
 				1305,
 				1306,
 				1307,
@@ -905,9 +905,9 @@ title_dir =
 			}
 		},
 		{
-			"Official Title",
+			"Официальные титулы",
 			{
-				"Military",
+				"Военные",
 				5162,
 				5160,
 				5161,
@@ -1037,7 +1037,7 @@ title_dir =
 				5392
 			},
 			{
-				"Government",
+				"Государственные",
 				5262,
 				5260,
 				5261,
@@ -1167,7 +1167,7 @@ title_dir =
 				5380
 			},
 			{
-				"Army",
+				"Армейские",
 				4103,
 				4102,
 				4101,
@@ -1176,15 +1176,15 @@ title_dir =
 			}
 		},
 		{
-			"Story",
+			"История",
 			{
-				"Yellow Scarves",
+				"Желтые повязки",
 				2101,
 				2102,
 				2103,
 			},
 			{
-				"Xiliang Situation",
+				"Ситуация Xiliang",
 				2201,
 				2202,
 				2203,
@@ -1195,7 +1195,7 @@ title_dir =
 				7401,
 			},
 			{
-				"Wars in Bashu",
+				"Войны в Bashu",
 				{2304,2303,2302,2301},
 				2305,
 				2306,
@@ -1204,7 +1204,7 @@ title_dir =
 				2309,
 			},
 			{
-				"Travel in Nanzhong",
+				"Путушествие в Nanzhong",
 				2401,
 				2402,
 				2403,
@@ -1212,7 +1212,7 @@ title_dir =
 				2405,
 			},
 			{
-				"Story in Kiangnan",
+				"История в Kiangnan",
 				2501,
 				2502,
 				2503,
@@ -1221,7 +1221,7 @@ title_dir =
 				2506,
 			},
 				{
-				"Turmoil in Xiangyang",
+				"Суматоха в Xiangyang",
 				2601,
 				2602,
 				2603,
@@ -1230,14 +1230,14 @@ title_dir =
 				2606,
 			},
 				{
-				"Tales",
+				"Сказки",
 				2607,
 				2608,
 
 			}
 		},
 		{
-			"Area",
+			"Область",
 			{
 				"Hebei",
 				3105,
@@ -1328,7 +1328,7 @@ title_dir =
 			6101
 		},
 		{
-			"Legend",
+			"Легенда",
            {6112,6111,6110},
            6113,
            6114,
@@ -1363,7 +1363,7 @@ title_dir =
 		   7387,
 		},
 		{
-			"Event",
+			"Ивент",
 			7101,
 			8001,
 			8002,
@@ -1492,7 +1492,7 @@ title_dir =
 			7416,
 		},
 		{
-			"Marriage",
+			"Брак",
 			1,
 			2,
 			9001,
@@ -1509,7 +1509,7 @@ title_dir =
 
 		},
 		{
-			"Ancient Legend",
+			"Древняя Легенда",
 			7130,
 			7131,
 			7132,
@@ -1522,7 +1522,7 @@ title_dir =
 
 		},
 		{
-    		"Ranking",
+    		"Ранг",
     		{
         		"Fervor",
         		7107,
@@ -1555,7 +1555,7 @@ title_dir =
     		},
 		},
 		{
-			"Mastership",
+			"Мастерство",
 			7342,
 			7344,
 			7345,
