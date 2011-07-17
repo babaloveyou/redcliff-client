@@ -14,6 +14,6 @@ Talons		Claw		Когти
 Gauntlets	Shield		Кольчужные рукавицы
 Ring Blade	Quoit		Кольцевой меч
 Scepter		Staff		Скипетр
-Charmer		Dance		Веер
-War Fan		War Fan		Двойной меч
+Charmer		Dance		Чародей
+War Fan		War Fan		Веер
 Bow		Bow		Лук
